@@ -43,13 +43,13 @@ const items = [{
     "title": "GitHub",
     "subtitle": "My GitHub",
     "image": github,
-    "link": "https://github.com/dikiawan-9"
+    "link": "https://github.com/diksy9"
 },
 {
     "title": "Instagram",
     "subtitle": "My Instagram",
     "image": instagram,
-    "link": "https://instagram.com/dixiexe_9"
+    "link": "https://instagram.com/diksy9"
 },
 {
     "title": "Twitter",
