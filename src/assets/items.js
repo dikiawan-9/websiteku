@@ -25,7 +25,7 @@ const items = [{
     "title": "Facebook",
     "subtitle": "Follow me :D",
     "image": fb,
-    "link": "https://www.facebook.com/dikiawan9.ex"
+    "link": "https://web.facebook.com/dikiawan9.ex"
 },
 {
     "title": "PayPal",
@@ -37,7 +37,7 @@ const items = [{
     "title": "WhatsApp",
     "subtitle": "My WhatsApp!",
     "image": wa,
-    "link": "http://wa.me/6285786955235"
+    "link": "http://wa.me/6285724284572"
 },
 {
     "title": "GitHub",
@@ -67,7 +67,7 @@ const items = [{
     "title": "Telegram",
     "subtitle": "My Telegram",
     "image": telegram,
-    "link": "https://telegram.me/DixiExe"
+    "link": "https://telegram.me/dikiawan9"
 }]
 
 export default items
